@@ -17,7 +17,7 @@ Make sure you have the following libraries installed:
 
 You can install them using the following:
 ```bash
-pip install pandas deep_translator Pillow requests tqdm
+pip install -r requirements.txt
 ```
 
 Also, ensure that you have emojis support in your environment. 🌈
